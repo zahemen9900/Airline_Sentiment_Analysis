@@ -22,5 +22,4 @@ The internship consists of two main tasks:
 
 <hr>
 
-Feel free to explore each task for detailed insights and analyses. If you have any questions or suggestions, don't hesitate to reach out!
 
