@@ -11,7 +11,7 @@ The internship consists of two main tasks:
    - Understanding customer sentiments, needs, and feedback is crucial for business success, including British Airways.
    - The insights gathered from the customer reviews are summarized in a concise presentation.
 
-   ![Customer Feedback Insights](https://github.com/zahemen9900/Photo-Repo/blob/main/Screenshot%202023-11-16%20111009.png)
+   ![Customer Feedback Insights](https://raw.githubusercontent.com/zahemen9900/Photo-Repo/main/Screenshot%202023-11-16%20111009.png?raw=true)
    
 
 3. **Predicting Customer Buying Behavior**
@@ -19,8 +19,8 @@ The internship consists of two main tasks:
    - Emphasizing the need for proactive strategies in the airline industry to secure bookings before customers arrive at the airport.
    - Developing a high-quality predictive model using customer bookings data to forecast successful bookings.
 
-   ![Predictive Model for Booking Success](https://github.com/zahemen9900/Photo-Repo/blob/main/Screenshot%202023-11-16%20110848.png)
-
+   ![Predictive Model for Booking Success](https://github.com/zahemen9900/Photo-Repo/blob/main/Screenshot%202023-11-16%20110848.png?raw=true)
+   
 <hr>
 
 
