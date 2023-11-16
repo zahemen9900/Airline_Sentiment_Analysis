@@ -1,4 +1,4 @@
-# British Airways Sentiment Analysis
+# Airlines Sentiment Analysis
 
 This project is a part of the Data Science virtual internship program offered by Forage in collaboration with British Airways.
 
